@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 I'm Ronit Martin</h1>
+<h1 align="center">Hi! 👋 I'm Ronit Martin</h1>
 
 ###
 
@@ -74,6 +74,8 @@
 
 ###
 
-<img align="right" height="150" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/23590318/f792868bc077419493e5e76a674cdf9b/eyJxIjoxMDAsIndlYnAiOjB9/1.gif?token-time=1718236800&token-hash=XNx2J7w0uvoblMG3jfS41mX8T90VP7T2cG8Jhog-BM4%3D"  />
+<div align="center">
+  <img height="200" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/23590318/f792868bc077419493e5e76a674cdf9b/eyJxIjoxMDAsIndlYnAiOjB9/1.gif?token-time=1718236800&token-hash=XNx2J7w0uvoblMG3jfS41mX8T90VP7T2cG8Jhog-BM4%3D"  />
+</div>
 
 ###
