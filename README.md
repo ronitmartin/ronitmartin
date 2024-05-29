@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Ronit Martin</h1>
+<h1 align="center">Hi!👋 I'm Ronit Martin</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the University of Leeds, passionate about exploring the realms of coding, machine learning, and building robust applications.</p>
+<p align="left">I'm a Computer Science student at the University of Leeds, passionate about exploring the realms of coding, machine learning, game development, and building robust applications.</p>
 
 ###
 
