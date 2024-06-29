@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a Computer Science student at the University of Leeds. I'm passionate about various areas including coding, game development, application building, and artificial intelligence/machine learning.</p>
+<p align="left">I'm a Computer Science student at the University of Leeds. I'm passionate about various areas including coding, game development, application building, and artificial intelligence/machine learning.</p>
 
 ###
 
